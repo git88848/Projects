@@ -1,8 +1,7 @@
 # 趋于科技所有网络上收集的产品免费分享中心
 
 ## 📌 分享者信息
-本文档由南区编写
-文档所有内容南区自己本身测试完写的，如有不对，欢迎联系南区补充
+所有内容南区自己本身整理分享，如有侵权，欢迎联系南区
 - 👨‍💻 南区GitHub：[git88848](https://github.com/git88848)
 - 📢 Telegram官方频道：[@QUYUkjpd](https://t.me/QUYUkjpd)
 - 👥 Telegram交流群：[@QUYUkjq](https://t.me/QUYUkjq)
